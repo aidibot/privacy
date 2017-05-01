@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Aidi - Polityka Prywatności
 
-You can use the [editor on GitHub](https://github.com/aidibot/privacy/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Jakie dane osobowe są zbierane?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Nie są zbierane żadne dane osobowe, z wyjątkiem danych podanych przez użytkownika jako część informacji przekazywanych do bota podczas używania jego funkcji. Dane te są przechowywane zgodnie z funkcją bota w ramach, której zostały przekazane. Np. użytkownik może przesłać imię i nazwisko swoje lub innej osoby lub adres email jako część informacji do zapisania w dzienniku i wtedy dane te przechowywane są jako część utworzonego wpisu dziennika.
+Ponadto bot przechowuje logi wymiany informacji z użytkownikiem wraz z danymi identyfikacyjnymi wygenerowanymi przez platformy zapewniające funkcjonalność wysyłania wiadomości (czat) oraz diagnostyczne informacje o przebiegu realizowanych funkcji, które mogą zawierać informacje przekazywane przez użytkownika.
 
-### Markdown
+### Jak wykorzystywane są zebrane dane?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dane podawane przez użytkownika wykorzystywane są zgodnie z przeznaczeniem funkcji bota, w ramach której zostały przekazane.
+Ponadto zebrane dane mogą być wykorzystywane są w celach poprawy działania usługi  i/lub jej spersonalizowania.
 
-```markdown
-Syntax highlighted code block
+### Czy zebrane dane są udostępniane stronom trzecim?
 
-# Header 1
-## Header 2
-### Header 3
+Anonimowe i/lub statystyczne dane komunikacji z botem mogą być przekazywane stronom trzecim w celach marketingowych, badawczych lub innych.
+Ponadto dostawcy usług niezbędnych do działania bota mogą przechowywać swoje logi wykorzystania ich usług.
 
-- Bulleted
-- List
+### Jak chronione są dane użytkownika?
 
-1. Numbered
-2. List
+Komunikacja między użytkownikiem a botem zabezpieczona jest szyfrowana z wykorzystaniem technologii SSL.
+Informacje przekazane przez użytkownika oraz logi bota przechowywane są na bezpiecznych serwerach dostarczanych przez sprawdzonych dostawców.
 
-**Bold** and _Italic_ and `Code` text
+### Jak można skontaktować się z obsługą bota?
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aidibot/privacy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+W razie pytań można skontaktować się pisząc na adres email: info@aidibot.com.
